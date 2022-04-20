@@ -22,6 +22,8 @@ Below are a few libraries that are needed to be installed priorly. The general r
 - positive-words.txt: Directory for positive words.
 - negative-words.txt: Directory negative words.
 - Dataset: Sentiment140
+
+### Dataset download link: https://www.kaggle.com/datasets/kazanova/sentiment140
  
  
 
